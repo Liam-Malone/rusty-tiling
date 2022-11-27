@@ -2,7 +2,10 @@
 A lightweight window manager, written in rust (that's the goal anyway, this may not end up getting anywhere)
 
 
-# Rust is ***Blazingly Fast***
+(currently this thing does nothing, I'm just getting started)
+
+
+# Rust is ***Blazingly Fast*** #
 
 (I have no clue what I'm doing or if this project will go anywhere, but hey, we'll see how it goes)
 
