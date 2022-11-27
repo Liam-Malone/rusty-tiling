@@ -3,6 +3,13 @@ use xcb::{
     Xid,
 };
 
+/* I'm just figuring all this shit out.. 
+ * it's all new to me
+ * this will take a while
+ */
+
+//basic setup code yoinked from xcb docs, 
+//with tweaks to comments so I can better understand
 fn main() -> xcb::Result<()> {
     //connects to X server
     let (conn, screen_num) = xcb::Connection::connect(None)?;
