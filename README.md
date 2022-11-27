@@ -1,5 +1,5 @@
-# rusty-wm
-A lightweight window manager, written in rust
+# rusty-tiling
+A lightweight window manager, written in rust (that's the goal anyway, this may not end up getting anywhere)
 
 
 # Rust is ***Blazingly Fast***
